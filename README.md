@@ -17,6 +17,8 @@ Built with a **serverless architecture using Firebase**, Nex-Lib enables real-ti
 
 The system focuses on practical library operations, with core workflows implemented through components such as **IssueProduct** and **IssueDetail**, ensuring efficient circulation management.
 
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/7a9a474e-8230-4dfd-9e4e-3b41d8d7f695" />
+
 ---
 
 ## ✨ Key Features
